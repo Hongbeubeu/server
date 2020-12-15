@@ -1,0 +1,42 @@
+[
+    {
+        "type": "bike",
+        "id": "bike1",
+        "name": "bike1",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000
+    },
+    {
+        "type": "bike",
+        "id": "bike2",
+        "name": "bike2",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000
+    },
+    {
+        "type": "bike",
+        "id": "bike3",
+        "name": "bike3",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000
+    },
+    {
+        "type": "bike",
+        "id": "bike4",
+        "name": "bike4",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000
+    }
+]

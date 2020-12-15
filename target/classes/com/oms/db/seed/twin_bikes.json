@@ -1,0 +1,42 @@
+[
+    {
+        "type": "twin bike",
+        "id": "twin bike1",
+        "name": "twin bike1",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000
+    },
+    {
+        "type": "twin bike",
+        "id": "twin bike2",
+        "name": "twin bike2",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000
+    },
+    {
+        "type": "twin bike",
+        "id": "twin bike3",
+        "name": "twin bike3",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000
+    },
+    {
+        "type": "twin bike",
+        "id": "twin bike4",
+        "name": "twin bike4",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "type": "ebike",
+        "id": "ebike1",
+        "name": "ebike1",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000,
+        "batteryPercentage": 100,
+        "loadCycles": 3,
+        "estimatedUsageTimeRemaining": 40
+    },
+    {
+        "type": "ebike",
+        "id": "ebike2",
+        "name": "ebike2",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000,
+        "batteryPercentage": 100,
+        "loadCycles": 3,
+        "estimatedUsageTimeRemaining": 40
+    },
+    {
+        "type": "ebike",
+        "id": "ebike3",
+        "name": "ebike3",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000,
+        "batteryPercentage": 100,
+        "loadCycles": 3,
+        "estimatedUsageTimeRemaining": 40
+    },
+    {
+        "type": "ebike",
+        "id": "ebike4",
+        "name": "ebike4",
+        "weight": 20,
+        "licensePlate": "34 D1 03291",
+        "manufacturingDate": "10/8/2010",
+        "producer": "Honda",
+        "cost": 10000,
+        "batteryPercentage": 100,
+        "loadCycles": 3,
+        "estimatedUsageTimeRemaining": 40
+    }
+]

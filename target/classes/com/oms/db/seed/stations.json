@@ -1,0 +1,52 @@
+[
+    {
+        "id": "station1",
+        "type": "station",
+        "name": "station1",
+        "address": "Số 3, Đường Lê Thanh Nghị",
+        "numberOfBikes": 2,
+        "numberOfEBikes": 2,
+        "numberOfTwinBikes": 2,
+        "numberOfEmptyDocks": 1,
+        "listBikes": 
+        [
+            "bike1",
+            "bike2"
+        ],
+        "listEBikes": 
+        [
+            "ebike1",
+            "ebike2"
+        ],
+        "listTwinBikes":
+        [
+            "twinbike1",
+            "twinbike2"
+        ]
+    },
+    {
+        "id": "station2",
+        "type": "station",
+        "name": "station2",
+        "address": "Số 10, Đường Đại Cồ Việt",
+        "numberOfBikes": 2,
+        "numberOfEBikes": 2,
+        "numberOfTwinBikes": 2,
+        "numberOfEmptyDocks": 1,
+        "listBikes": 
+        [
+            "bike3",
+            "bike4"
+        ],
+        "listEBikes": 
+        [
+            "ebike3",
+            "ebike4"
+        ],
+        "listTwinBikes":
+        [
+            "twinbike3",
+            "twinbike4"
+        ]
+    }
+]
